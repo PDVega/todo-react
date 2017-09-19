@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default class FormTodo extends React.Component{
-  constructor(){}
+
 
   render(){
     return(
@@ -12,4 +12,3 @@ export default class FormTodo extends React.Component{
     )
   }
 }
-
